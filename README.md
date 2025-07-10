@@ -2,7 +2,6 @@
 
 A machine learning project that predicts housing prices in New York using real estate data. This project covers data preprocessing, feature engineering, modeling, and evaluation with the goal of accurately estimating property prices.
 
----
 
 ## Project Overview
 
@@ -14,7 +13,6 @@ This project explores various factors influencing housing prices in New York and
 - Property type  
 - Other relevant features  
 
----
 
 ##  Features
 -  **Exploratory Data Analysis (EDA)**  
@@ -26,7 +24,7 @@ This project explores various factors influencing housing prices in New York and
   -- Random Forest
 
 -  **Model Evaluation**  
-  - RMSE & R² Score  
-  - Actual vs Predicted plots  
-  - Feature Importance visualizations  
+  -- RMSE & R² Score  
+  -- Actual vs Predicted plots  
+  -- Feature Importance visualizations  
 
