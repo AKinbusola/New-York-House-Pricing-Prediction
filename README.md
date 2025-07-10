@@ -20,10 +20,10 @@ This project explores various factors influencing housing prices in New York and
 -  **Exploratory Data Analysis (EDA)**  
 -  **Data Cleaning**  
 -  **Feature Engineering**  
-  - Log transformation  
-  - Categorical encoding (e.g., zip code)  
+  -- Log transformation  
+  -- Categorical encoding (e.g., zip code)  
 -  **Modeling Techniques**  
-  - Random Forest
+  -- Random Forest
 
 -  **Model Evaluation**  
   - RMSE & R² Score  
